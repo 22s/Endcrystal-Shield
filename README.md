@@ -1,5 +1,7 @@
 # Endcrystal-Shield
-Properly implements shields being able to block endcrystal blasts, as they should; like any other explosion type.
+Properly implements shields being able to block endcrystal blasts, as they should; like every other explosion type.
+
+Mojang CONFIRMED bug report: https://bugs.mojang.com/browse/MC-188247
 
 How to compile:
 
