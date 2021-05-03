@@ -1,0 +1,6 @@
+main: me.EndCrystalShield.Main
+name: EndCrystalShield
+version: 1.0
+api-version: 1.16
+author: epearl
+description: ecme shield blocking fix
